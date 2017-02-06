@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="css/mSlide.css" type="text/css" rel="stylesheet" />
+	</head>
+	<body>
+		<div class="mSlide">
+			<ul>
+				<li>
+					<h2>Slide Title 1</h2>
+					<div>Slide Contet 1</div>
+				</li>
+
+				<li>
+					<h2>Slide Title 2</h2>
+					<div>Slide Contet 2</div>
+				</li>
+				
+				<li>
+					<h2>Slide Title 3</h2>
+					<div>Slide Contet 3</div>
+				</li>
+
+
+				<li>
+					<h2>Slide Title 4</h2>
+					<div>Slide Contet 3</div>
+				</li>
+			</ul>
+		</div>
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/mSlide.js"></script>
+
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('.mSlide').mSlide({pagination: true});
+			});
+		</script>
+	</body>
+</html>
