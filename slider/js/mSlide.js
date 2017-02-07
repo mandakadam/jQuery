@@ -1,5 +1,6 @@
 ;(function($, window, document, undefined){
 	var pluginName = 'mSlide',
+	    version = '1',
 		count = 0,
 		defaults = {pagination:false, controls: true, height:300}
 
