@@ -1,0 +1,30 @@
+[
+
+	{
+		"id":"1",	
+		"title":"Harpreet Singh Matharu",
+		"description":"Stack Overflow is a community of 7.3 million programmers",			
+		"percent":"30%",
+		"downloadlink":"https://www.facebook.com",
+		"messageseverity": "low",
+		"type":"notification"		
+    },
+    {
+    	"id":"2",
+		"title":"Manda Kadam",
+		"description":"Join them; it only takes a minute",			
+		"percent":"10%",
+		"downloadlink":"https://www.google.com",
+		"messageseverity": "high",
+		"type":"progress"
+    },
+    {
+    	"id":"3",	
+		"title":"Karan Singh",
+		"description":"My attempt to debug",			
+		"percent":"10%",
+		"downloadlink":"https://www.yahoo.com",
+		"messageseverity": "medium",
+		"type":"notification"	
+    }
+]
