@@ -40,7 +40,7 @@
     	"id":"5",	
 		"title":"Test 5",
 		"description":"Test5 description",			
-		"percent":"50%",
+		"percent":"70%",
 		"downloadlink":"https://www.google.com",
 		"messageseverity": "high",
 		"type":"notification"	
