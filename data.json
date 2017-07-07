@@ -2,8 +2,8 @@
 
 	{
 		"id":"1",	
-		"title":"Manda Test",
-		"description":"Stack Overflow is a community of 7.3 million programmers",			
+		"title":"Test Name",
+		"description":"Stack Overflow is a community of 8.3 million programmers",			
 		"percent":"30%",
 		"downloadlink":"https://www.facebook.com",
 		"messageseverity": "low",
