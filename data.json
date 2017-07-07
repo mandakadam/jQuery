@@ -35,5 +35,14 @@
 		"downloadlink":"https://www.google.com",
 		"messageseverity": "high",
 		"type":"notification"	
+    },
+    {
+    	"id":"5",	
+		"title":"Test 5",
+		"description":"Test5 description",			
+		"percent":"50%",
+		"downloadlink":"https://www.google.com",
+		"messageseverity": "high",
+		"type":"notification"	
     }
 ]
